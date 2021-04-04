@@ -2,7 +2,7 @@
 This is a simple app for parsing logs
 
 #### 1. Create virtual environment
-#### 2. install dependencies
+#### 2. Install dependencies
 
 `python -m pip install -r requirements.txt`
 
